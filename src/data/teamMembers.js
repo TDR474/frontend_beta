@@ -24,12 +24,12 @@ export default [
         "btnText": "Message"
     },
     {
-        "id": 3,
-        "image": Profile3,
-        "name": "Bonnie Green",
-        "statusKey": "offline",
-        "icon": faCalendarCheck,
-        "btnText": "Invite"
+        // "id": 3,
+        // "image": Profile3,
+        // "name": "Bonnie Green",
+        // "statusKey": "offline",
+        // "icon": faCalendarCheck,
+        // "btnText": "Invite"
     },
     {
         "id": 4,
